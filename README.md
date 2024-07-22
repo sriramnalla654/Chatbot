@@ -20,7 +20,7 @@ This project implements a chatbot for a wine-selling business using Flask. The c
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/wine-chatbot.git
-    cd wine-chatbot
+    cd chatbot
     ```
 
 2. Create a virtual environment and activate it:
