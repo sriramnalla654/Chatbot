@@ -60,8 +60,12 @@ chatbot/
 
 # Output
 1. Correct input -
-   ![image](https://github.com/user-attachments/assets/a0e05d44-a2ce-414f-b49e-ab06a6b82771)
+   
+![image](https://github.com/user-attachments/assets/a0e05d44-a2ce-414f-b49e-ab06a6b82771)
+
+   
 2. Incorrect input -
-   ![image](https://github.com/user-attachments/assets/cb0edef0-636c-418f-a0c8-72da1f2656d6)
+
+![image](https://github.com/user-attachments/assets/cb0edef0-636c-418f-a0c8-72da1f2656d6)
 
 
