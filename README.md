@@ -47,4 +47,13 @@ This project implements a chatbot for a wine-selling business using Flask. The c
 6. Open your browser and navigate to `http://127.0.0.1:5000/` to access the chatbot.
 
 ## File Structure
-
+chatbot/
+├── app.py
+├── sample_question_answers.json
+├── templates/
+│ └── index.html
+├── static/
+│ └── styles.css
+├── .env
+├── requirements.txt
+└── README.md
